@@ -8,6 +8,8 @@ Usage
 
 See example/index.html for full source. In a nutshell:
 
+* HTML
+
 ```html
 <div ng-controller="DemoController">
    <div di-moreable="200" moreable-api="moreableApi">
@@ -30,6 +32,7 @@ See example/index.html for full source. In a nutshell:
    </div>
 </div>
 ```
+* JS
 
 ```js
 angular.module('app'. ['di.moreable'])
