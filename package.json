@@ -1,0 +1,24 @@
+{
+  "name": "di-moreable",
+  "version": "1.0.0",
+  "description": "Allow overflow text to be revealed by a trigger",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilkovich/di-moreable.git"
+  },
+  "author": "Daniel Ilkovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilkovich/di-moreable/issues"
+  },
+  "homepage": "https://github.com/ilkovich/angular-moreable",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "karma": "^0.12.16",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5"
+  }
+}
