@@ -22,7 +22,9 @@ See example/index.html for full source. In a nutshell:
           luctus tortor lorem, ac vestibulum erat bibendum pretium.
       </p>
       <div>
-          <a href="javascript:void()" di-moreable-trigger ng-bind="moreableApi.isExpanded() ? 'See Less' : 'See More'"></a>
+          <a href="javascript:void()" di-moreable-trigger 
+             ng-bind="moreableApi.isExpanded() ? 'See Less' : 'See More'"
+             ></a>
       </div>
  </div>
 ```
