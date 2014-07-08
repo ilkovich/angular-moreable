@@ -9,7 +9,7 @@ Usage
 See example/index.html for full source. In a nutshell:
 
 ```html
- <div di-moreable="200" moreable-api="moreableApi">
+ <div di-moreable="200" moreable-api="moreableApi" ng-init="moreableApi = {}">
       <p style="width: 200px" di-moreable-item>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet tristique elit. 
           Aenean justo nunc, commodo ut tincidunt quis, commodo non est. Ut sem elit, rutrum a elit
